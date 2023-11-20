@@ -15,7 +15,7 @@ const Navbar = () => {
 					<img src="/NavIcon.png" alt="" className="w-6 h-6" onClick={toggleMenu} />
 				</div>
 				<div className={`text-center text-white ${isMenuOpen ? "hidden" : ""}`}>
-					<div className="text-[0.7rem]">Hi, visitor!</div>
+					<div className="text-[0.7rem]">Hi, Orates!</div>
 					<div className="font-bold text-[1rem]">WELCOME</div>
 				</div>
 
@@ -59,7 +59,7 @@ const Navbar = () => {
 			{/* Dekstop */}
 			<div className="flex justify-between relative top-3 hidden lg:flex">
 				<div>
-					<img src="/LogoPHI.png" className="w-12 h-12 rounded-full" alt="" />
+					<img src="/logo-telkom.png" className="w-12 h-12 " alt="" />
 				</div>
 				<ul className="mt-2 flex gap-5">
 					<li className="mb-4">

@@ -8,7 +8,7 @@ const Footer = () => {
 					<div class="mb-6 md:mb-0">
 						<a href="#" class="flex items-center">
 							<img
-								src="/LogoTKJ3.png"
+								src="/LogoRPL4.jpg"
 								alt=""
 								className="h-[4.5rem] w-[4.5rem] right-2 relative rounded-full brightness-200"
 							/>
@@ -20,22 +20,22 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">CREATED BY</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/ekizr_/?hl=id" class="hover:underline">
-										EKIZR
+									<a href="https://www.instagram.com/mir145_/" class="hover:underline">
+										Mirr
 									</a>
 								</li>
-								<li>
+								{/* <li>
 									<a href="https://www.instagram.com/dafyall/?hl=id" class="hover:underline">
 										DAFYALL
 									</a>
-								</li>
+								</li> */}
 							</ul>
 						</div>
 						<div className="">
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/acetkjthree/?hl=id" class="hover:underline ">
+									<a href="https://www.instagram.com/orate_four.jpg/" class="hover:underline ">
 										Instagram
 									</a>
 								</li>
@@ -60,7 +60,7 @@ const Footer = () => {
 				<div class="sm:flex sm:items-center sm:justify-between">
 					<div class="flex mt-4 justify-center sm:mt-0">
 						<p className="text-[0.7rem] text-white opacity-70">
-							© {new Date().getFullYear()} Kelas XI TKJ 3 | Di Kelola Oleh Siswa TKJ 3
+							© {new Date().getFullYear()} Kelas XI RPL 4 | Di Kelola Oleh Siswa Yang Bernama Ahamd Amiruddin
 						</p>
 					</div>
 				</div>
