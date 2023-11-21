@@ -18,7 +18,7 @@ const StrukturKelas = () => {
 		<div className="z-1  relative h-auto lg:h-[83vh] lg:overflow-hidden">
 			{/* wali kelas */}
 			<div data-aos="fade-up" data-aos-duration="500" className="mt-14 md:mt-10">
-				<BorderStruktur Jabatan="Wali Kelas" Nama="Hari Susannto" Width="150px" />
+				<BorderStruktur Jabatan="Wali Kelas" Nama="Hari Susanto" Width="150px" />
 			</div>
 			<div className="flex flex-col justify-center items-center">
 				<img src="LineVertikal.svg" alt="" data-aos="fade-up" data-aos-duration="550" />
@@ -136,7 +136,7 @@ const StrukturKelas = () => {
 					<div className="flex-col">
 						<BorderStruktur Jabatan="Bendahara" Nama="Nurul Aulia" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Mutiara" Width="120px" />
 					</div>
 				</div>
 
@@ -198,21 +198,21 @@ const StrukturKelas = () => {
 					data-aos="fade-up"
 					data-aos-duration="1100">
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Keamanan" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="Keamanan" Nama="Imam Sayyid" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="" Nama=Rifky" Width="120px" />
 					</div>
 
 					<div className="flex-col">
-						<BorderStruktur Jabatan="Kebersihan" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="Kebersihan" Nama="Ilham" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Dillah" Width="120px" />
 					</div>
 
 					<div className="flex-col hidden lg:flex">
-						<BorderStruktur Jabatan="Kebersihan" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="Content" Nama="Qutra" Width="120px" />
 						<div className="py-[3%]"></div>
-						<BorderStruktur Jabatan="" Nama="Siapa Yah" Width="120px" />
+						<BorderStruktur Jabatan="" Nama="Nadhira" Width="120px" />
 					</div>
 				</div>
 
@@ -225,9 +225,9 @@ const StrukturKelas = () => {
 						<img src="LineVertikal3.svg" alt="" className="lg:hidden" />
 						<img src="Circle.svg" alt="" className="relative top-[-0.7rem]" />
 						<div className="relative bottom-3">
-							<BorderStruktur Jabatan="Kesehatan" Nama="Siapa Yah" Width="120px" />
+							<BorderStruktur Jabatan="Kesehatan" Nama="Dillah" Width="120px" />
 							<div className="py-[3%]"></div>
-							<BorderStruktur Jabatan="" Nama="Siapa Yah" Width="120px" />
+							<BorderStruktur Jabatan="" Nama="Khadijah" Width="120px" />
 						</div>
 					</div>
 				</div>
